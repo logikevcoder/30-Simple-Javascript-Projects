@@ -10,10 +10,19 @@ body, html {
 	font-family: sans-serif;
 }
 
+h2 {
+	position: relative;
+	top: 200px;
+	text-align: center;
+	font-size: 5rem;
+	color: white;
+}
+
 .keys {
 	display: flex;
 	flex: 1;
 	min-height: 100vh;
+	margin-top; -200px;
 	align-items: center;
 	justify-content: center;
 }
