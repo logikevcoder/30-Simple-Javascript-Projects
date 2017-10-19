@@ -2,4 +2,4 @@
 
 ### Current projects built
 1. Drumkit
-   - Uses keyboard input to make sounds with corresponding key clicks
+	- Uses keyboard input to make sounds with corresponding key clicks
