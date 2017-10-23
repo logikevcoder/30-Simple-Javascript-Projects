@@ -18,3 +18,8 @@
   - Click color button to change border color
   - All of this is done with a javascript function to change the CSS variables
   
+###
+4. Flexbox-Panel-Gallery
+  - Gallery of images
+  - Click on different images to expand the width of images
+  - Clicking images also creates addition text that drops into place
