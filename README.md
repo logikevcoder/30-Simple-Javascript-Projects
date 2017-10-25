@@ -18,3 +18,14 @@
   - Click color button to change border color
   - All of this is done with a javascript function to change the CSS variables
   
+###
+4. Flex Panel Gallery
+  - Clickable image panels that expand
+  - Additional text slides up and down on click event
+  - Made with javascript and flexbox styling in CSS
+
+###
+5. City Finder
+  - Using javaScript the app can call a JSON file containing all relevant city information
+  - Search box begins listening on keypress for matching characters of cities in the JSON file
+  - Search by state to retrieve list of all cities of that state
