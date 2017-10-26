@@ -31,3 +31,8 @@
   - Search box begins listening on keypress for matching characters of cities in the JSON file
   - Search by state to retrieve list of all cities of that state
 
+###
+6. Canvas Color Changers
+  - Blank canvas that allows the user to start drawing on the screen
+  - As the user holds down the mouse and drags the color changes from red to green to blue
+  - As the user colors the line width goes from big to small and vice versa
