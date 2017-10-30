@@ -36,3 +36,9 @@
   - Blank canvas that allows the user to start drawing on the screen
   - As the user holds down the mouse and drags the color changes from red to green to blue
   - As the user colors the line width goes from big to small and vice versa
+  
+###
+7. Hold Shift and Click Boxes 
+  - A list of items is created
+  - Click the checkboxes to cross out the list item in that row
+  - Hold shift to click and cross out multiple boxes at the same time
