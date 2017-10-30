@@ -42,3 +42,10 @@
   - A list of items is created
   - Click the checkboxes to cross out the list item in that row
   - Hold shift to click and cross out multiple boxes at the same time
+
+###
+8. Custom Video Player
+  - Contains all of the features of a standard browser video player
+  - Pressing the video feed itself pauses and unpauses the vidoe
+  - Contains bar to control forward and backward speeds
+  - Button to pause or play the video
