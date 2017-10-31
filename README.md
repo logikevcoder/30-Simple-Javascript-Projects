@@ -49,3 +49,7 @@
   - Pressing the video feed itself pauses and unpauses the vidoe
   - Contains bar to control forward and backward speeds
   - Button to pause or play the video
+  
+###
+9. Mouse move shadow
+  - Contains duplicate text that moves and animates as the mouse moves around the screen
