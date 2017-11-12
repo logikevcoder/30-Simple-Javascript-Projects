@@ -1,4 +1,4 @@
-# 30 Javascript Projects in 30 Days
+# 30 Simple javascript projects
 
 ## Current projects built
 
